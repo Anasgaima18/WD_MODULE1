@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    font-size: 2em;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #0a0a0a;
+    margin: 0;
+    padding: 20px;
+}
+p{
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    text-align: justify;
+    text-indent: 2em;
+    
+}
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    background-color: #4CAF50;
+    color: white;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+}
